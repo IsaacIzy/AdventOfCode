@@ -1,3 +1,4 @@
+# Challenge prompt: https://adventofcode.com/2021/day/1
 data = []
 with open('data.txt') as file:
     for line in file:

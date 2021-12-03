@@ -1,3 +1,4 @@
+# Challenge prompt: https://adventofcode.com/2021/day/2
 with open('input.txt') as input:
     depth = 0
     position = 0
